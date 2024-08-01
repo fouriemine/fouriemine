@@ -1,4 +1,4 @@
-### Hi there 👋
+### 🌟 Welcome! I'm Mine' Fourie
 
 <!--
 **fouriemine/fouriemine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🚀 A final year Information Technology Student passionate about problem solving through innovative coding solutions.
+
+🖥️ Tech Stack:
+    -Languages: Java, C#, Python, SQL, C++
+    -Frameworks: React, Spring Boot
+    -Databases: PostgreSQL, MySQL
+
+🎯 Goals:
+  - Obtaining my Honors degree in Information Technology and Computer Sciences
+  - Develop an innovative solution to a leading real-world problem
+  - Continue supporting local charities & mentoring young learners
