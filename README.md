@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 🚀 A final year Information Technology Student passionate about problem solving through innovative coding solutions.
 
 🖥️ Tech Stack:
-    -Languages: Java, C#, Python, SQL, C++
-    -Frameworks: React, Spring Boot
-    -Databases: PostgreSQL, MySQL
+  - Languages: Java, C#, Python, SQL
+  - Frameworks: React, Spring Boot
+  - Databases: MySQL, PostgreSQL
 
 🎯 Goals:
   - Obtaining my Honors degree in Information Technology and Computer Sciences
