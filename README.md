@@ -25,3 +25,7 @@ Here are some ideas to get you started:
   - Obtaining my Honors degree in Information Technology and Computer Sciences
   - Develop an innovative solution to a leading real-world problem
   - Continue supporting local charities & mentoring young learners
+
+🔗 Lets get in touch:
+  - www.linkedin.com/in/miné-fourie-804823225
+  - 
