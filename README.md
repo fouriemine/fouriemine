@@ -28,4 +28,4 @@ Here are some ideas to get you started:
 
 🔗 Lets get in touch:
   - www.linkedin.com/in/miné-fourie-804823225
-  - 
+  - https://fouriemine.github.io/github-portfolio/
