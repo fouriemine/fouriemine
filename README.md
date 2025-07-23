@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🚀 A final year Information Technology Student passionate about problem solving through innovative coding solutions.
+🚀 A BSc Honours Information Technology Student passionate about problem solving through innovative coding solutions.
 
 🖥️ Tech Stack:
   - Languages: Java, C#, Python, SQL
